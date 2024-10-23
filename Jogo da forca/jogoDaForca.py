@@ -45,3 +45,5 @@ while True:
     if '*' not in palavraCenssurada:
         print("\nParabéns Você acertou a palavra\n")
         break
+
+    print("testando algo")
