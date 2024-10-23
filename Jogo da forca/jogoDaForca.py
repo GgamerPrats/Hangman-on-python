@@ -36,7 +36,7 @@ while True:
                 posicao += 1
 
     else:
-        print("\nEssa letra nao esta na palavra -1 tentativa\n")
+        print("\nEssa letra nao esta na palavra (-1 tentativa)\n")
         tentativas -= 1
     
     if tentativas == 0:
